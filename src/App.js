@@ -30,6 +30,19 @@ const App = () => {
           showModal && <InsertRecord closeModal={() => setShowModal(false)} />
         }
       </div>
+      <p>
+        icons by
+        {' '}
+        <a href="https://tablericons.com/">tablericons</a>
+        , emoji favicon by
+        {' '}
+        <a href="https://favicon.io/emoji-favicons/">favicon.io</a>
+      </p>
+      <a href="https://github.com/Alaricus/infinite-branching-list" className="tag">
+        Have some input?
+        <br />
+        View project on GitHub
+      </a>
     </Context.Provider>
   );
 };
