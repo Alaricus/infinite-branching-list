@@ -2,9 +2,6 @@ import React, { useState, useContext } from 'react';
 import { v4 as uuid } from 'uuid';
 
 import Context from '../Context';
-import insertRecord from '../icons/circle-check.svg';
-import insertInactive from '../icons/circle-check-inactive.svg';
-import cancel from '../icons/circle-x.svg';
 
 const InsertRecord = ({ ids = [], closeModal }) => {
   const { dispatch } = useContext(Context);
@@ -40,16 +37,8 @@ const InsertRecord = ({ ids = [], closeModal }) => {
           <input type="text" maxLength="19" value={text} onChange={handleTextChange} />
         </div>
         <div className="row">
-          <button type="button" onClick={closeModal}>
-            <img src={cancel} alt="cancel" />
-          </button>
-          <button type="button" onClick={handleInsert} disabled={name.length === 0 || text.length === 0}>
-            {
-              name.length === 0 || text.length === 0
-                ? <img src={insertInactive} alt="insert" />
-                : <img src={insertRecord} alt="insert" />
-            }
-          </button>
+          <button type="button" onClick={closeModal} className="cancel">cancel</button>
+          <button type="button" onClick={handleInsert} className="submit" disabled={name.length === 0 || text.length === 0}>insert</button>
         </div>
       </dialog>
     </div>

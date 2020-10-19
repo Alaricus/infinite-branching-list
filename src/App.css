@@ -68,9 +68,32 @@ input, button {
   padding: 5px 5px 15px 5px;
   width: 31rem;
   background-color: white;
+  font-size: 0.85rem;
 }
 
-.form button {
+.cancel {
+  width: 46%;
+  margin: 5px 0;
+  border: 1px solid red;
+  color: red;
+  background-color: rgba(255, 0, 0, 0.2);
+}
+
+.submit {
+  width: 46%;
+  margin: 5px 0;
+  border: 1px solid green;
+  color: green;
+  background-color: rgba(0, 255, 0, 0.2);
+}
+
+.submit:disabled {
+  border: 1px solid gray;
+  color: gray;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.form input {
   margin: 0;
 }
 
