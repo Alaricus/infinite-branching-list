@@ -50,7 +50,6 @@ export default (state, action) => {
       });
       return ({ ...state, records: tempState });
     },
-    insert: () => {},
   };
 
   if (actionTypes[action.type]) {
