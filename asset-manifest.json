@@ -1,28 +1,26 @@
 {
   "files": {
-    "main.css": "/infinite-branching-list/static/css/main.9f5abfba.chunk.css",
-    "main.js": "/infinite-branching-list/static/js/main.0db4b590.chunk.js",
-    "main.js.map": "/infinite-branching-list/static/js/main.0db4b590.chunk.js.map",
-    "runtime-main.js": "/infinite-branching-list/static/js/runtime-main.6940ca91.js",
-    "runtime-main.js.map": "/infinite-branching-list/static/js/runtime-main.6940ca91.js.map",
-    "static/js/2.78bee4a0.chunk.js": "/infinite-branching-list/static/js/2.78bee4a0.chunk.js",
-    "static/js/2.78bee4a0.chunk.js.map": "/infinite-branching-list/static/js/2.78bee4a0.chunk.js.map",
+    "main.css": "/infinite-branching-list/static/css/main.c79acf28.chunk.css",
+    "main.js": "/infinite-branching-list/static/js/main.c5df3e7f.chunk.js",
+    "main.js.map": "/infinite-branching-list/static/js/main.c5df3e7f.chunk.js.map",
+    "runtime-main.js": "/infinite-branching-list/static/js/runtime-main.e7c327bf.js",
+    "runtime-main.js.map": "/infinite-branching-list/static/js/runtime-main.e7c327bf.js.map",
+    "static/js/2.20ed1ec1.chunk.js": "/infinite-branching-list/static/js/2.20ed1ec1.chunk.js",
+    "static/js/2.20ed1ec1.chunk.js.map": "/infinite-branching-list/static/js/2.20ed1ec1.chunk.js.map",
     "index.html": "/infinite-branching-list/index.html",
-    "precache-manifest.604f2a3290e67f2980a0a498a98c6d97.js": "/infinite-branching-list/precache-manifest.604f2a3290e67f2980a0a498a98c6d97.js",
-    "service-worker.js": "/infinite-branching-list/service-worker.js",
-    "static/css/main.9f5abfba.chunk.css.map": "/infinite-branching-list/static/css/main.9f5abfba.chunk.css.map",
-    "static/js/2.78bee4a0.chunk.js.LICENSE.txt": "/infinite-branching-list/static/js/2.78bee4a0.chunk.js.LICENSE.txt",
-    "static/media/circle-check-inactive.svg": "/infinite-branching-list/static/media/circle-check-inactive.c7c034d6.svg",
-    "static/media/circle-check.svg": "/infinite-branching-list/static/media/circle-check.ad6c0d3a.svg",
-    "static/media/circle-plus.svg": "/infinite-branching-list/static/media/circle-plus.bc882cc9.svg",
-    "static/media/circle-x.svg": "/infinite-branching-list/static/media/circle-x.6781393f.svg",
-    "static/media/folder-plus.svg": "/infinite-branching-list/static/media/folder-plus.4ad38271.svg",
-    "static/media/folder-x.svg": "/infinite-branching-list/static/media/folder-x.863626d9.svg"
+    "static/css/main.c79acf28.chunk.css.map": "/infinite-branching-list/static/css/main.c79acf28.chunk.css.map",
+    "static/js/2.20ed1ec1.chunk.js.LICENSE.txt": "/infinite-branching-list/static/js/2.20ed1ec1.chunk.js.LICENSE.txt",
+    "static/media/circle-check-inactive.9d4db9cf.svg": "/infinite-branching-list/static/media/circle-check-inactive.9d4db9cf.svg",
+    "static/media/circle-check.d40dfd9d.svg": "/infinite-branching-list/static/media/circle-check.d40dfd9d.svg",
+    "static/media/circle-plus.36990e9b.svg": "/infinite-branching-list/static/media/circle-plus.36990e9b.svg",
+    "static/media/circle-x.386ec30d.svg": "/infinite-branching-list/static/media/circle-x.386ec30d.svg",
+    "static/media/folder-plus.7b9bb2a9.svg": "/infinite-branching-list/static/media/folder-plus.7b9bb2a9.svg",
+    "static/media/folder-x.09c93802.svg": "/infinite-branching-list/static/media/folder-x.09c93802.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6940ca91.js",
-    "static/js/2.78bee4a0.chunk.js",
-    "static/css/main.9f5abfba.chunk.css",
-    "static/js/main.0db4b590.chunk.js"
+    "static/js/runtime-main.e7c327bf.js",
+    "static/js/2.20ed1ec1.chunk.js",
+    "static/css/main.c79acf28.chunk.css",
+    "static/js/main.c5df3e7f.chunk.js"
   ]
 }
